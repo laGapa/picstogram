@@ -9,10 +9,9 @@
 .carousel .slide div img {
     height: 100%;
     width: auto;
-
 }
 
-.carousel .slide div  {
+.carousel .slide div {
     background-color: white;
 }
 
@@ -25,57 +24,50 @@
 
 .image-element-class {
     width: 360px;
-//     od 1224
-//     width: 450px;
-//     995-1081
-//     width: 700px;
-// 936-800
-// width: 400px;
-// 650-
-// width: 300px;
+    //     od 1224
+    //     width: 450px;
+    //     995-1081
+    //     width: 700px;
+    // 936-800
+    // width: 400px;
+    // 650-
+    // width: 300px;
 
     // margin-left: 10px;
     // margin-bottom: 10px;
     margin: 10px;
-
-
 }
 
+//
 
-    //
-    
-    //
-    // @media only screen and (min-width: 992px) {
-    //     .image-element-class {
-    //         width: 700px;
-    //         margin: 10px;
-    //     }
-    // }
-    //
-    // @media only screen and (min-width: 1024px) {
-    //     .image-element-class {
-    //         width: 360px;
-    //         margin: 10px;
-    //     }
-    // }
-
+//
+// @media only screen and (min-width: 992px) {
+//     .image-element-class {
+//         width: 700px;
+//         margin: 10px;
+//     }
+// }
+//
+// @media only screen and (min-width: 1024px) {
+//     .image-element-class {
+//         width: 360px;
+//         margin: 10px;
+//     }
+// }
 
 .image-image {
     width: 100%;
-
 }
 .grid {
     list-style-type: none;
     margin: 0;
     padding: 0;
-
-
 }
 
-    // .image-element-class{
-    //     // height: 500px;
-    //     margin: 0 auto;
-    // }
+// .image-element-class{
+//     // height: 500px;
+//     margin: 0 auto;
+// }
 
 //
 //
@@ -96,47 +88,3 @@
 //
 //     }
 //
-    // @media only screen and (min-width: 768px) {
-    //     .carousel-inner>.item>img {
-    //         // height: 500px;
-    //         height: 600px;
-    //
-    //         min-width: 100%;
-    //     }
-    // }
-//
-//     @media only screen and (min-width: 992px) {
-//         .carousel-inner>.item>img {
-//             // height: 800px;
-//             height: 93vh;
-//
-//             min-width: 100%;
-//         }
-//     }
-//
-//     @media only screen and (min-width: 1024px) {
-//         .carousel-inner>.item>img {
-//             // height: 900px;
-//             height: 90vh;
-//             min-width:100%;
-//             width: auto;
-//             height: auto;
-//             vertical-align: middle;
-//         }
-//     }
-//
-
-
-
-    // jak zdjąć aktywny element, niebieska ramka?
-    // .container-fluid {
-    //     height: 100vh;
-    // }
-
-    // .coverflow__stage__15AAc {
-    //     background-color: white;
-    //
-    // }
-    // .coverflow__cove {
-    //     box-shadow: 0px 0px 0px white;
-    // }
